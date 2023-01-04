@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .layout1-container {
+            background: #ff5722;
+            border: 1px dotted red;
+            padding: 5px;
+        }
+        .layout1-container:after {
+            content: ".";
+            visibility: hidden;
+            display: block;
+            height: 0;
+            clear: both;
+        }
+        .layout1-col1 {
+            box-sizing: border-box;
+            float: left;
+            background: #ffc107;
+            width: 40%;
+            padding: 5px;
+        }
+        .layout1-col2 {
+            box-sizing: border-box;
+            float: left;
+            background: #00bcd4;
+            width: 60%;
+            padding: 5px;
+        }
+    
+    </style>
+</head>
+<body>
+
+    <div class="layout1-container">
+        <div class="layout1-col1">
+            <p>Khối HTML1</p>
+            <p>Nội dung ... </p>
+            <p>Nội dung ... </p>
+        </div>
+        <div class="layout1-col2">
+            Khối HTML2
+            <p>Nội dung ... </p>
+        </div>
+    </div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+Từ vựng chuyên ngành:
+-positioning property : thuộc tính định vị
+-distinctly : rõ ràng
+-absolute positioning : định vị tuyệt đối
+-respectively : tương ứng
+-ensures
+-assume
+-entire
+-instances
+-reflow
+-accommodate
+-accomplished
+-relavtive positioning
+-unaffected
+-adjacent
+-desires
+-illustration probably
+
+
+
+
+
